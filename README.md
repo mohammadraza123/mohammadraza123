@@ -1,6 +1,18 @@
 # 💫 About Me:
-🌱 Currently Growing in Web Development<br>🚀 Passionate about building modern, responsive, and user-friendly applications.<br>💡 Constantly exploring new tools, frameworks, and best practices to enhance my skills.<br>🎨 Specializing in cutting-edge frontend technologies to craft seamless user experiences.<br><br>🔍 Always eager to learn, innovate, and push the boundaries of web development!
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9524a2sroecmdxv0hagn18p3yzdztg6wnnefzq4ls8q&ep=v1_gifs_search&rid=200w.gif&ct=g" />
+
+🌱 Currently Growing in Web Development  
+🚀 Passionate about building modern, responsive, and user-friendly applications.  
+💡 Constantly exploring new tools, frameworks, and best practices to enhance my skills.  
+🎨 Specializing in cutting-edge frontend technologies to craft seamless user experiences.  
+
+🔍 Always eager to learn, innovate, and push the boundaries of web development!
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohammadraza123&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadraza123" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohammadraza123&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadraza123" />
